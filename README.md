@@ -1,5 +1,5 @@
 # idontusearch
-I don't use Arch - simple sh script that changes your fastfetch config to display that your distro is Ach
+I don't use Arch - simple sh script that changes your fastfetch config to display that your distro is Arch
 
 ## ⚠️ Warning: this script might not work properly with very complex fastfetch configs. Use the backup feature (it's built into the script).
 
